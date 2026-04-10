@@ -64,7 +64,13 @@
 
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "French": "Native Speaker"
+      "English": "C1 Level"
+      "German": "C1 Level"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [],
