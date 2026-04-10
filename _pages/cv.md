@@ -11,54 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's degree "Mathématiques-Vision-Apprentissage", Ecole Normale Supérieure Paris-Saclay, 2026-2027
+* Engineering degree, Ecole Polytechnique, 2023-2027
+* Scientific preparatory classes (MPSI-MP*), Lycée Louis-Le-Grand, 2021-2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2026-Present: Operation Research Intern
+  * Ecole Nationale des Ponts et Chaussées, CERMICS
+  * Working on computing Nash Equilibria in combinatorial games within the context of mutualization in freight transport.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* June 2025 - August 2025: AI Engineer Intern
+  * Thales Deutschland
+  * Formal Verification of Autonomous Cyber Defense
+  * Publication of a paper in the conference IEEE
