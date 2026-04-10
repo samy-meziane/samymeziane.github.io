@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<img src="/images/profil_photo.jpg" alt="Photo de profil" width="150" style="float: right; margin-left: 20px; border-radius: 10px;">
 {% include base_path %}
 
 Education
